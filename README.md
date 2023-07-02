@@ -1,7 +1,9 @@
 # git-GitHub
 
         git init
+
 //
+
         git pull http_url
 
 // creates and switches to a branch
@@ -25,6 +27,7 @@
 git commit -m "your-message"
 
 //
+
         git push
 
 
