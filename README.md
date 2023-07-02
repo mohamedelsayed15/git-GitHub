@@ -24,7 +24,7 @@
 
 //
 
-git commit -m "your-message"
+        git commit -m "your-message"
 
 //
 
